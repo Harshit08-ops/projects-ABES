@@ -1,0 +1,99 @@
+Transaction_ID,Movie,Genre,Show_Date,Showtime_Slot,Screen_Format,Ticket_Quantity,Ticket_Price,Occupancy_Percentage,Concession_Spend,Day_Type,Ticket_Revenue,Total_Revenue,Group_Category
+TXN0001,Sky Warriors,Action,2026-01-08,Matinee,IMAX,2,340,39.4,400.0,Weekday,680,1080.0,Couple
+TXN0002,Mystery Lane,Thriller,2026-03-17,Evening,2D,5,200,34.0,400.0,Weekday,1000,1400.0,Small Group
+TXN0003,Mystery Lane,Thriller,2026-02-10,Evening,2D,5,200,80.8,0.0,Weekday,1000,1000.0,Small Group
+TXN0004,Little Stars,Animation,2026-03-05,Late Night,IMAX,3,360,55.0,400.0,Weekday,1080,1480.0,Small Group
+TXN0005,Wild Earth,Adventure,2026-02-14,Matinee,2D,2,200,85.0,250.0,Weekend,400,650.0,Couple
+TXN0006,Final Match,Sports,2026-03-23,Evening,2D,8,200,78.3,0.0,Weekday,1600,1600.0,Large Group
+TXN0007,Love in Paris,Romance,2026-02-20,Evening,2D,2,160,26.1,320.0,Weekday,320,640.0,Couple
+TXN0008,Wild Earth,Adventure,2026-02-09,Evening,IMAX,2,340,47.5,80.0,Weekday,680,760.0,Couple
+TXN0009,Laugh Out Loud,Comedy,2026-03-14,Evening,2D,1,200,86.0,200.0,Weekend,200,400.0,Solo
+TXN0010,Love in Paris,Romance,2026-02-15,Matinee,2D,5,200,36.7,0.0,Weekend,1000,1000.0,Small Group
+TXN0011,Love in Paris,Romance,2026-01-08,Evening,3D,2,250,40.6,160.0,Weekday,500,660.0,Couple
+TXN0012,Sky Warriors,Action,2026-02-01,Matinee,2D,2,180,36.0,120.0,Weekend,360,480.0,Couple
+TXN0013,Final Match,Sports,2026-03-19,Matinee,2D,2,220,54.2,160.0,Weekday,440,600.0,Couple
+TXN0014,The Last Kingdom,Drama,2026-02-06,Late Night,3D,5,230,40.0,0.0,Weekday,1150,1150.0,Small Group
+TXN0015,Haunted House,Horror,2026-03-04,Matinee,3D,1,210,62.7,160.0,Weekday,210,370.0,Solo
+TXN0016,Final Match,Sports,2026-01-15,Evening,2D,4,160,69.2,200.0,Weekday,640,840.0,Small Group
+TXN0017,Wild Earth,Adventure,2026-01-31,Late Night,2D,1,180,34.0,250.0,Weekend,180,430.0,Solo
+TXN0018,Love in Paris,Romance,2026-01-24,Evening,IMAX,8,320,50.0,80.0,Weekend,2560,2640.0,Large Group
+TXN0019,Sky Warriors,Action,2026-03-05,Evening,2D,6,160,77.5,200.0,Weekday,960,1160.0,Large Group
+TXN0020,Galaxy Quest,Sci-Fi,2026-02-14,Evening,IMAX,6,300,33.9,200.0,Weekend,1800,2000.0,Large Group
+TXN0021,The Last Kingdom,Drama,2026-03-10,Matinee,2D,3,180,32.7,160.0,Weekday,540,700.0,Small Group
+TXN0022,The Last Kingdom,Drama,2026-01-16,Matinee,2D,1,180,36.7,400.0,Weekday,180,580.0,Solo
+TXN0023,Final Match,Sports,2026-01-27,Late Night,3D,2,230,64.0,160.0,Weekday,460,620.0,Couple
+TXN0024,Love in Paris,Romance,2026-03-02,Late Night,3D,1,250,30.7,200.0,Weekday,250,450.0,Solo
+TXN0025,Galaxy Quest,Sci-Fi,2026-02-19,Evening,2D,2,180,36.7,0.0,Weekday,360,360.0,Couple
+TXN0027,The Last Kingdom,Drama,2026-03-26,Matinee,3D,4,230,43.3,400.0,Weekday,920,1320.0,Small Group
+TXN0028,Final Match,Sports,2026-02-19,Late Night,3D,1,230,54.2,320.0,Weekday,230,550.0,Solo
+TXN0029,Final Match,Sports,2026-02-25,Matinee,2D,8,180,71.3,400.0,Weekday,1440,1840.0,Large Group
+TXN0030,The Last Kingdom,Drama,2026-03-29,Late Night,2D,1,160,20.5,250.0,Weekend,160,410.0,Solo
+TXN0031,Little Stars,Animation,2026-02-12,Evening,3D,6,270,51.7,200.0,Weekday,1620,1820.0,Large Group
+TXN0032,Love in Paris,Romance,2026-02-04,Late Night,3D,1,230,80.8,80.0,Weekday,230,310.0,Solo
+TXN0033,Sky Warriors,Action,2026-03-09,Evening,2D,5,160,86.0,320.0,Weekday,800,1120.0,Small Group
+TXN0034,Sky Warriors,Action,2026-01-29,Evening,IMAX,2,300,32.5,0.0,Weekday,600,600.0,Couple
+TXN0035,Final Match,Sports,2026-01-02,Matinee,2D,2,160,31.1,160.0,Weekday,320,480.0,Couple
+TXN0036,Final Match,Sports,2026-03-19,Evening,2D,3,200,21.5,250.0,Weekday,600,850.0,Small Group
+TXN0037,Little Stars,Animation,2026-01-08,Evening,4DX,1,330,36.7,160.0,Weekday,330,490.0,Solo
+TXN0038,Galaxy Quest,Sci-Fi,2026-03-28,Matinee,2D,8,200,40.5,160.0,Weekend,1600,1760.0,Large Group
+TXN0039,The Last Kingdom,Drama,2026-03-09,Late Night,2D,1,200,30.7,200.0,Weekday,200,400.0,Solo
+TXN0040,The Last Kingdom,Drama,2026-02-27,Matinee,2D,5,220,46.1,0.0,Weekday,1100,1100.0,Small Group
+TXN0041,Laugh Out Loud,Comedy,2026-01-31,Evening,2D,5,220,66.7,320.0,Weekend,1100,1420.0,Small Group
+TXN0042,Mystery Lane,Thriller,2026-03-25,Evening,2D,2,200,66.0,320.0,Weekday,400,720.0,Couple
+TXN0043,Laugh Out Loud,Comedy,2026-03-31,Late Night,2D,2,180,55.0,0.0,Weekday,360,360.0,Couple
+TXN0044,Little Stars,Animation,2026-01-18,Evening,2D,3,160,49.0,0.0,Weekend,480,480.0,Small Group
+TXN0045,Final Match,Sports,2026-02-21,Matinee,2D,2,220,72.0,0.0,Weekend,440,440.0,Couple
+TXN0046,Mystery Lane,Thriller,2026-02-08,Evening,2D,2,160,59.3,120.0,Weekend,320,440.0,Couple
+TXN0047,Little Stars,Animation,2026-03-13,Matinee,IMAX,3,320,35.0,0.0,Weekday,960,960.0,Small Group
+TXN0048,Little Stars,Animation,2026-03-27,Matinee,3D,2,230,24.7,160.0,Weekday,460,620.0,Couple
+TXN0049,Final Match,Sports,2026-01-10,Late Night,IMAX,1,320,80.0,0.0,Weekend,320,320.0,Solo
+TXN0050,Little Stars,Animation,2026-01-29,Evening,4DX,6,390,40.5,200.0,Weekday,2340,2540.0,Large Group
+TXN0051,Wild Earth,Adventure,2026-01-30,Late Night,3D,1,250,60.0,160.0,Weekday,250,410.0,Solo
+TXN0052,Mystery Lane,Thriller,2026-01-06,Evening,2D,3,180,48.0,120.0,Weekday,540,660.0,Small Group
+TXN0053,Wild Earth,Adventure,2026-03-08,Evening,2D,2,180,40.0,250.0,Weekend,360,610.0,Couple
+TXN0054,Laugh Out Loud,Comedy,2026-03-18,Evening,IMAX,8,320,48.0,160.0,Weekday,2560,2720.0,Large Group
+TXN0055,Final Match,Sports,2026-02-19,Evening,IMAX,4,360,28.7,80.0,Weekday,1440,1520.0,Small Group
+TXN0056,The Last Kingdom,Drama,2026-02-15,Matinee,3D,2,250,49.0,200.0,Weekend,500,700.0,Couple
+TXN0057,Wild Earth,Adventure,2026-02-17,Matinee,2D,4,160,50.5,400.0,Weekday,640,1040.0,Small Group
+TXN0058,The Last Kingdom,Drama,2026-03-31,Late Night,IMAX,3,360,23.9,80.0,Weekday,1080,1160.0,Small Group
+TXN0059,Mystery Lane,Thriller,2026-01-16,Evening,3D,1,230,36.0,200.0,Weekday,230,430.0,Solo
+TXN0060,Love in Paris,Romance,2026-03-24,Evening,IMAX,3,320,29.4,200.0,Weekday,960,1160.0,Small Group
+TXN0061,The Last Kingdom,Drama,2026-03-06,Evening,2D,1,220,83.0,120.0,Weekday,220,340.0,Solo
+TXN0062,Final Match,Sports,2026-03-08,Evening,2D,4,200,40.0,80.0,Weekend,800,880.0,Small Group
+TXN0063,Mystery Lane,Thriller,2026-03-28,Late Night,2D,2,180,73.0,120.0,Weekend,360,480.0,Couple
+TXN0064,Mystery Lane,Thriller,2026-03-27,Evening,3D,4,230,39.0,160.0,Weekday,920,1080.0,Small Group
+TXN0065,The Last Kingdom,Drama,2026-03-18,Matinee,3D,10,230,31.0,320.0,Weekday,2300,2620.0,Large Group
+TXN0066,Little Stars,Animation,2026-01-03,Matinee,3D,1,250,23.3,160.0,Weekend,250,410.0,Solo
+TXN0067,Mystery Lane,Thriller,2026-01-29,Evening,2D,2,220,46.7,400.0,Weekday,440,840.0,Couple
+TXN0068,Mystery Lane,Thriller,2026-01-04,Matinee,4DX,1,370,43.0,320.0,Weekend,370,690.0,Solo
+TXN0069,Sky Warriors,Action,2026-01-13,Matinee,3D,10,210,49.4,400.0,Weekday,2100,2500.0,Large Group
+TXN0070,Little Stars,Animation,2026-03-18,Matinee,2D,2,160,20.6,400.0,Weekday,320,720.0,Couple
+TXN0071,Laugh Out Loud,Comedy,2026-01-15,Evening,2D,1,200,99.0,320.0,Weekday,200,520.0,Solo
+TXN0073,Little Stars,Animation,2026-02-11,Matinee,2D,5,200,70.8,160.0,Weekday,1000,1160.0,Small Group
+TXN0074,Galaxy Quest,Sci-Fi,2026-02-10,Evening,IMAX,3,340,41.0,0.0,Weekday,1020,1020.0,Small Group
+TXN0075,Sky Warriors,Action,2026-03-09,Matinee,4DX,4,350,23.9,200.0,Weekday,1400,1600.0,Small Group
+TXN0076,Sky Warriors,Action,2026-02-07,Matinee,3D,6,210,91.0,0.0,Weekend,1260,1260.0,Large Group
+TXN0077,Haunted House,Horror,2026-01-23,Evening,IMAX,2,360,36.7,0.0,Weekday,720,720.0,Couple
+TXN0078,Laugh Out Loud,Comedy,2026-02-18,Evening,3D,2,270,36.1,400.0,Weekday,540,940.0,Couple
+TXN0079,The Last Kingdom,Drama,2026-03-24,Matinee,2D,3,160,67.3,0.0,Weekday,480,480.0,Small Group
+TXN0080,Final Match,Sports,2026-03-12,Evening,2D,2,180,55.6,120.0,Weekday,360,480.0,Couple
+TXN0081,The Last Kingdom,Drama,2026-02-24,Matinee,3D,2,230,46.7,120.0,Weekday,460,580.0,Couple
+TXN0082,Love in Paris,Romance,2026-02-01,Evening,3D,2,230,48.0,200.0,Weekend,460,660.0,Couple
+TXN0083,Galaxy Quest,Sci-Fi,2026-01-31,Evening,IMAX,2,340,47.3,200.0,Weekend,680,880.0,Couple
+TXN0084,Galaxy Quest,Sci-Fi,2026-02-20,Late Night,3D,3,230,46.5,160.0,Weekday,690,850.0,Small Group
+TXN0085,Mystery Lane,Thriller,2026-02-16,Evening,2D,5,180,21.0,0.0,Weekday,900,900.0,Small Group
+TXN0086,Sky Warriors,Action,2026-01-07,Evening,2D,5,160,59.2,0.0,Weekday,800,800.0,Small Group
+TXN0087,Mystery Lane,Thriller,2026-02-09,Late Night,2D,4,180,32.5,120.0,Weekday,720,840.0,Small Group
+TXN0088,Mystery Lane,Thriller,2026-02-15,Late Night,2D,3,160,35.0,400.0,Weekend,480,880.0,Small Group
+TXN0089,Love in Paris,Romance,2026-01-13,Evening,3D,2,250,53.9,200.0,Weekday,500,700.0,Couple
+TXN0090,Haunted House,Horror,2026-02-12,Matinee,3D,2,210,64.0,320.0,Weekday,420,740.0,Couple
+TXN0091,Final Match,Sports,2026-03-14,Matinee,IMAX,3,360,35.0,160.0,Weekend,1080,1240.0,Small Group
+TXN0092,Little Stars,Animation,2026-01-04,Evening,IMAX,1,320,63.3,0.0,Weekend,320,320.0,Solo
+TXN0093,Haunted House,Horror,2026-02-26,Matinee,2D,6,160,44.2,160.0,Weekday,960,1120.0,Large Group
+TXN0094,Final Match,Sports,2026-01-25,Late Night,2D,2,180,76.7,200.0,Weekend,360,560.0,Couple
+TXN0095,Galaxy Quest,Sci-Fi,2026-02-25,Evening,IMAX,4,340,87.0,160.0,Weekday,1360,1520.0,Small Group
+TXN0096,Little Stars,Animation,2026-02-17,Late Night,3D,5,230,35.6,160.0,Weekday,1150,1310.0,Small Group
+TXN0097,Love in Paris,Romance,2026-02-04,Evening,IMAX,3,360,77.5,160.0,Weekday,1080,1240.0,Small Group
+TXN0098,Galaxy Quest,Sci-Fi,2026-02-26,Matinee,IMAX,2,300,20.6,120.0,Weekday,600,720.0,Couple
+TXN0099,Haunted House,Horror,2026-03-04,Evening,4DX,1,330,30.0,200.0,Weekday,330,530.0,Solo
+TXN0100,Galaxy Quest,Sci-Fi,2026-02-17,Late Night,3D,2,210,49.4,200.0,Weekday,420,620.0,Couple

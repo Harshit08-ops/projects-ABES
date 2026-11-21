@@ -1,0 +1,8 @@
+Transaction_ID,Movie,Genre,Show_Date,Showtime_Slot,Screen_Format,Ticket_Quantity,Ticket_Price,Occupancy_Percentage,Concession_Spend,Day_Type,Ticket_Revenue,Total_Revenue
+TXN0006,Final Match,Sports,2026-03-23,Evening,2D,8,200,78.3,0.0,Weekday,1600,1600.0
+TXN0018,Love in Paris,Romance,2026-01-24,Evening,IMAX,8,320,50.0,80.0,Weekend,2560,2640.0
+TXN0029,Final Match,Sports,2026-02-25,Matinee,2D,8,180,71.3,400.0,Weekday,1440,1840.0
+TXN0038,Galaxy Quest,Sci-Fi,2026-03-28,Matinee,2D,8,200,40.5,160.0,Weekend,1600,1760.0
+TXN0054,Laugh Out Loud,Comedy,2026-03-18,Evening,IMAX,8,320,48.0,160.0,Weekday,2560,2720.0
+TXN0065,The Last Kingdom,Drama,2026-03-18,Matinee,3D,10,230,31.0,320.0,Weekday,2300,2620.0
+TXN0069,Sky Warriors,Action,2026-01-13,Matinee,3D,10,210,49.4,400.0,Weekday,2100,2500.0

@@ -1,0 +1,101 @@
+Transaction_ID,Movie,Genre,Show_Date,Showtime_Slot,Screen_Format,Ticket_Quantity,Ticket_Price,Occupancy_Percentage,Concession_Spend
+TXN0001,Sky Warriors,Action,2026-01-08,Matinee,IMAX,2,340,39.4,400.0
+TXN0002,Mystery Lane,Thriller,2026-03-17,Evening,2D,5,200,34.0,400.0
+TXN0003,Mystery Lane,Thriller,2026-02-10,Evening,2D,5,200,80.8,0.0
+TXN0004,Little Stars,Animation,2026-03-05,Late Night,IMAX,3,360,55.0,400.0
+TXN0005,Wild Earth,Adventure,2026-02-14,Matinee,2D,2,200,85.0,250.0
+TXN0006,Final Match,Sports,2026-03-23,Evening,2D,8,200,78.3,0.0
+TXN0007,Love in Paris,Romance,2026-02-20,Evening,2D,2,160,26.1,320.0
+TXN0008,Wild Earth,Adventure,2026-02-09,Evening,IMAX,2,340,47.5,80.0
+TXN0009,Laugh Out Loud,Comedy,2026-03-14,Evening,2D,1,200,86.0,200.0
+TXN0010,Love in Paris,Romance,2026-02-15,Matinee,2D,5,200,36.7,0.0
+TXN0011,Love in Paris,Romance,2026-01-08,Evening,3D,2,250,40.6,160.0
+TXN0012,Sky Warriors,Action,2026-02-01,Matinee,2D,2,180,36.0,120.0
+TXN0013,Final Match,Sports,2026-03-19,Matinee,2D,2,220,54.2,
+TXN0014,The Last Kingdom,Drama,2026-02-06,Late Night,3D,5,230,40.0,0.0
+TXN0015,Haunted House,Horror,2026-03-04,Matinee,3D,1,210,62.7,160.0
+TXN0016,Final Match,Sports,2026-01-15,Evening,2D,4,160,69.2,200.0
+TXN0017,Wild Earth,Adventure,2026-01-31,Late Night,2D,1,180,34.0,250.0
+TXN0018,Love in Paris,Romance,2026-01-24,Evening,IMAX,8,320,50.0,80.0
+TXN0019,Sky Warriors,Action,2026-03-05,Evening,2D,6,160,77.5,200.0
+TXN0020,Galaxy Quest,Sci-Fi,2026-02-14,Evening,IMAX,6,300,33.9,200.0
+TXN0021,The Last Kingdom,Drama,2026-03-10,Matinee,2D,3,180,32.7,160.0
+TXN0022,The Last Kingdom,Drama,2026-01-16,Matinee,2D,1,180,36.7,400.0
+TXN0023,Final Match,Sports,2026-01-27,Late Night,3D,2,230,64.0,160.0
+TXN0024,Love in Paris,Romance,2026-03-02,Late Night,3D,1,250,30.7,200.0
+TXN0025,Galaxy Quest,Sci-Fi,2026-02-19,Evening,2D,2,180,36.7,0.0
+TXN0025,Haunted House,Horror,2026-01-28,Matinee,2D,6,220,56.0,250.0
+TXN0027,The Last Kingdom,Drama,2026-03-26,Matinee,3D,4,230,43.3,400.0
+TXN0028,Final Match,Sports,2026-02-19,Late Night,3D,1,230,54.2,320.0
+TXN0029,Final Match,Sports,2026-02-25,Matinee,2D,8,180,71.3,400.0
+TXN0030,The Last Kingdom,Drama,2026-03-29,Late Night,2D,1,160,20.5,250.0
+TXN0031,Little Stars,Animation,2026-02-12,Evening,3D,6,270,51.7,200.0
+TXN0032,Love in Paris,Romance,2026-02-04,Late Night,3D,1,230,80.8,80.0
+TXN0033,Sky Warriors,Action,2026-03-09,Evening,2D,5,160,86.0,320.0
+TXN0034,Sky Warriors,Action,2026-01-29,Evening,IMAX,2,300,32.5,0.0
+TXN0035,Final Match,Sports,2026-01-02,Matinee,2D,2,160,31.1,160.0
+TXN0036,Final Match,Sports,2026-03-19,Evening,2D,3,200,21.5,250.0
+TXN0037,Little Stars,Animation,2026-01-08,Evening,4DX,1,330,36.7,160.0
+TXN0038,Galaxy Quest,Sci-Fi,2026-03-28,Matinee,2D,8,200,40.5,160.0
+TXN0039,The Last Kingdom,Drama,2026-03-09,Late Night,2D,1,200,30.7,200.0
+TXN0040,The Last Kingdom,Drama,2026-02-27,Matinee,2D,5,220,46.1,0.0
+TXN0041,Laugh Out Loud,Comedy,2026-01-31,Evening,2D,5,220,66.7,320.0
+TXN0042,Mystery Lane,Thriller,2026-03-25,Evening,2D,2,200,66.0,320.0
+TXN0043,Laugh Out Loud,Comedy,2026-03-31,Late Night,2D,2,180,55.0,0.0
+TXN0044,Little Stars,Animation,2026-01-18,Evening,2D,3,160,49.0,0.0
+TXN0045,Final Match,Sports,2026-02-21,Matinee,2D,2,220,72.0,0.0
+TXN0046,Mystery Lane,Thriller,2026-02-08,Evening,2D,2,160,59.3,120.0
+TXN0047,Little Stars,Animation,2026-03-13,Matinee,IMAX,3,320,35.0,0.0
+TXN0048,Little Stars,Animation,2026-03-27,Matinee,3D,2,230,24.7,
+TXN0049,Final Match,Sports,2026-01-10,Late Night,IMAX,1,320,80.0,0.0
+TXN0050,Little Stars,Animation,2026-01-29,Evening,4DX,6,390,40.5,200.0
+TXN0051,Wild Earth,Adventure,2026-01-30,Late Night,3D,1,250,60.0,160.0
+TXN0052,Mystery Lane,Thriller,2026-01-06,Evening,2D,3,180,48.0,120.0
+TXN0053,Wild Earth,Adventure,2026-03-08,Evening,2D,2,180,40.0,250.0
+TXN0054,Laugh Out Loud,Comedy,2026-03-18,Evening,IMAX,8,320,48.0,160.0
+TXN0055,Final Match,Sports,2026-02-19,Evening,IMAX,4,360,28.7,80.0
+TXN0056,The Last Kingdom,Drama,2026-02-15,Matinee,3D,2,250,49.0,200.0
+TXN0057,Wild Earth,Adventure,2026-02-17,Matinee,2D,4,160,50.5,400.0
+TXN0058,The Last Kingdom,Drama,2026-03-31,Late Night,IMAX,3,360,23.9,80.0
+TXN0059,Mystery Lane,Thriller,2026-01-16,Evening,3D,1,230,36.0,200.0
+TXN0060,Love in Paris,Romance,2026-03-24,Evening,IMAX,3,320,29.4,200.0
+TXN0061,The Last Kingdom,Drama,2026-03-06,Evening,2D,1,220,83.0,120.0
+TXN0062,Final Match,Sports,2026-03-08,Evening,2D,4,200,40.0,80.0
+TXN0063,Mystery Lane,Thriller,2026-03-28,Late Night,2D,2,180,73.0,120.0
+TXN0064,Mystery Lane,Thriller,2026-03-27,Evening,3D,4,230,39.0,160.0
+TXN0065,The Last Kingdom,Drama,2026-03-18,Matinee,3D,10,230,31.0,320.0
+TXN0066,Little Stars,Animation,2026-01-03,Matinee,3D,1,250,23.3,160.0
+TXN0067,Mystery Lane,Thriller,2026-01-29,Evening,2D,2,220,46.7,400.0
+TXN0068,Mystery Lane,Thriller,2026-01-04,Matinee,4DX,1,370,43.0,320.0
+TXN0069,Sky Warriors,Action,2026-01-13,Matinee,3D,10,210,49.4,400.0
+TXN0070,Little Stars,Animation,2026-03-18,Matinee,2D,2,160,20.6,400.0
+TXN0071,Laugh Out Loud,Comedy,2026-01-15,Evening,2D,1,200,99.0,320.0
+TXN0071,Final Match,Sports,2026-03-02,Late Night,2D,5,180,23.5,250.0
+TXN0073,Little Stars,Animation,2026-02-11,Matinee,2D,5,200,70.8,160.0
+TXN0074,Galaxy Quest,Sci-Fi,2026-02-10,Evening,IMAX,3,340,41.0,0.0
+TXN0075,Sky Warriors,Action,2026-03-09,Matinee,4DX,4,350,23.9,200.0
+TXN0076,Sky Warriors,Action,2026-02-07,Matinee,3D,6,210,91.0,0.0
+TXN0077,Haunted House,Horror,2026-01-23,Evening,IMAX,2,360,36.7,0.0
+TXN0078,Laugh Out Loud,Comedy,2026-02-18,Evening,3D,2,270,36.1,400.0
+TXN0079,The Last Kingdom,Drama,2026-03-24,Matinee,2D,3,160,67.3,0.0
+TXN0080,Final Match,Sports,2026-03-12,Evening,2D,2,180,55.6,120.0
+TXN0081,The Last Kingdom,Drama,2026-02-24,Matinee,3D,2,230,46.7,120.0
+TXN0082,Love in Paris,Romance,2026-02-01,Evening,3D,2,230,48.0,200.0
+TXN0083,Galaxy Quest,Sci-Fi,2026-01-31,Evening,IMAX,2,340,47.3,200.0
+TXN0084,Galaxy Quest,Sci-Fi,2026-02-20,Late Night,3D,3,230,46.5,
+TXN0085,Mystery Lane,Thriller,2026-02-16,Evening,2D,5,180,21.0,0.0
+TXN0086,Sky Warriors,Action,2026-01-07,Evening,2D,5,160,59.2,0.0
+TXN0087,Mystery Lane,Thriller,2026-02-09,Late Night,2D,4,180,32.5,120.0
+TXN0088,Mystery Lane,Thriller,2026-02-15,Late Night,2D,3,160,35.0,400.0
+TXN0089,Love in Paris,Romance,2026-01-13,Evening,3D,2,250,53.9,200.0
+TXN0090,Haunted House,Horror,2026-02-12,Matinee,3D,2,210,64.0,320.0
+TXN0091,Final Match,Sports,2026-03-14,Matinee,IMAX,3,360,35.0,160.0
+TXN0092,Little Stars,Animation,2026-01-04,Evening,IMAX,1,320,63.3,0.0
+TXN0093,Haunted House,Horror,2026-02-26,Matinee,2D,6,160,44.2,160.0
+TXN0094,Final Match,Sports,2026-01-25,Late Night,2D,2,180,76.7,200.0
+TXN0095,Galaxy Quest,Sci-Fi,2026-02-25,Evening,IMAX,4,340,87.0,160.0
+TXN0096,Little Stars,Animation,2026-02-17,Late Night,3D,5,230,35.6,160.0
+TXN0097,Love in Paris,Romance,2026-02-04,Evening,IMAX,3,360,77.5,160.0
+TXN0098,Galaxy Quest,Sci-Fi,2026-02-26,Matinee,IMAX,2,300,20.6,120.0
+TXN0099,Haunted House,Horror,2026-03-04,Evening,4DX,1,330,30.0,200.0
+TXN0100,Galaxy Quest,Sci-Fi,2026-02-17,Late Night,3D,2,210,49.4,200.0
